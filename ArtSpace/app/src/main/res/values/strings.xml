@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="luffy">Monkey D. Luffy</string>
+    <string name="zoro">Roronoa Zoro</string>
+    <string name="nami">Nami</string>
+    <string name="bounty_luffy">400,000,000</string>
+    <string name="bounty_zoro">120,000,000</string>
+    <string name="bounty_nami">30,000,000</string>
+</resources>
